@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nurlanov-zh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nurlanov-zh/so3_log_map
+  - nurlanov-zh/sublabel-accurate-alpha-expansion
+  - nurlanov-zh/3d-face-reconstruction
+  - nurlanov-zh/event-based-odomety
+  - jlblancoc/tutorial-se3-manifold
+  - strasdat/Sophus
+  - aleasims/SlavkaBot
